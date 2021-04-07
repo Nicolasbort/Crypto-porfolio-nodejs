@@ -1,24 +1,32 @@
-# binance_api
+# Cryptocurrency Portfolio
 
-## Project setup
-```
-npm install
-```
+## Tools
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Node.js
+- Vue.js
+- Binance API
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Npm Modules
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Express
+- Socket.io
+- Axios
+- Https
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## How to use
+
+`npm install`
+
+- Create a .env file in the repository folder and use the .env.example template to fill it
+
+- Open two terminals
+
+#### First Terminal
+
+`cd server && npm run start`
+
+### Second Terminal
+
+`cd client && npm run serve`
+
+- Open http://localhost:8080/
