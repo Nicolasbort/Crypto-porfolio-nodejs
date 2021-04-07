@@ -1,5 +1,7 @@
 # Cryptocurrency Portfolio
 
+![ScreenShot](docs/screenshot.png)
+
 ## Tools
 
 - Node.js
